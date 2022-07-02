@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/10/01 15:41:42.007.pas,C:\Users\CoreLysium\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\CoreLysium\Documents\RAD Studio\Projects\Delphi_Bird\frmMain_u.pas</Transaction>
+    <Transaction>2021/10/01 15:41:42.024.dfm,C:\Users\CoreLysium\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\CoreLysium\Documents\RAD Studio\Projects\Delphi_Bird\frmMain_u.dfm</Transaction>
+    <Transaction>2021/10/01 15:41:49.586.dproj,C:\Users\CoreLysium\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\CoreLysium\Documents\RAD Studio\Projects\Delphi_Bird\frmDelphiBird_p.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
